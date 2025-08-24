@@ -13,7 +13,7 @@ I'm a passionate developer, problem solver, and technology enthusiast. I enjoy b
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/mitul-gajjar)
+- [LinkedIn](https://www.linkedin.com/in/gajjar-mitul)
 - [Gmail](gajjarmitul007@gmail.com)
 
 ## 🛠️ Tech Stack
