@@ -7,7 +7,7 @@ I'm a passionate developer, problem solver, and technology enthusiast. I enjoy b
 
 - 👨‍💻 Currently working on: exciting projects in web development, automation, and cloud technologies
 - 🎓 Always learning: latest trends in software engineering & DevOps
-- 💬 Ask me about: JavaScript, Python, cloud computing, automation, or anything tech!
+- 💬 Ask me about: JavaScript, Vue, Laravel, automation, or anything tech!
 - 🌱 Exploring: AI, machine learning, and open source communities
 - 🏆 Fun fact: I love hackathons and collaborating on innovative ideas
 
@@ -19,10 +19,9 @@ I'm a passionate developer, problem solver, and technology enthusiast. I enjoy b
 ## 🛠️ Tech Stack
 
 ```yaml
-Languages: JavaScript, Python, TypeScript
-Frameworks: React, Node.js, Express
-Cloud: AWS, Azure, GCP
-Tools: Docker, Kubernetes, Git, CI/CD
+Languages: JavaScript, PHP
+Frameworks: Laravel, Vue
+Tools: Git, CI/CD, JIRA, ElasticSearch
 ```
 
 ## ⚡ GitHub Stats
