@@ -103,6 +103,8 @@ Built from experience, not theory.
 - 🌱 Actively moving towards open source contributions  
 
 ---
+![](https://komarev.com/ghpvc/?username=Gajjar-Mitul)
+---
 
 ## 📫 Let’s Connect
 
