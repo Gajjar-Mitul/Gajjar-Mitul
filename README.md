@@ -1,6 +1,9 @@
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBoN2lxbm4wbWZ6aDlycWw1OGJwNWxxZDkxcmNtN2t0Mzk4Z3FqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJ53VLbM1eEo4s1toi/giphy.gif" width="180" height="180" alt="Calm Coding Sage" />
 
+---
+![](https://komarev.com/ghpvc/?username=Gajjar-Mitul)
+---
 # Welcome, Traveller 👋  
 ### Sit down. Let’s build something that actually lasts. 🌱
 
@@ -102,8 +105,6 @@ Built from experience, not theory.
 - 🔄 Built internal tooling to reduce setup & onboarding friction  
 - 🌱 Actively moving towards open source contributions  
 
----
-![](https://komarev.com/ghpvc/?username=Gajjar-Mitul)
 ---
 
 ## 📫 Let’s Connect
