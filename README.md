@@ -85,6 +85,7 @@ Generates structured backend modules with enforced architecture (DTO, services, 
 ---
 
 ### 🧪 (In Progress) Chess-Bot  
+🔗 **[local-bot-chess](https://github.com/Gajjar-Mitul/local-bot-chess)**
 
 Rule-based chess engine built without AI to model complex logic systems  
 
