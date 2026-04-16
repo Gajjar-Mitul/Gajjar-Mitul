@@ -56,7 +56,7 @@ Rule-based chess engine built without AI to model complex logic and constraint-d
 
 I collaborate on freelance systems under a shared account:
 
-👉 https://github.com/cypher-ocean  
+👉 https://github.com/cypherocean  
 
 Most work is private due to client confidentiality.  
 Public repositories here reflect similar system design approaches.
