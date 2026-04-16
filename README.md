@@ -5,8 +5,8 @@
 ![](https://komarev.com/ghpvc/?username=Gajjar-Mitul)
 ---
 
-# Mitul Gajjar (Code Monk)
-### Backend Engineer — Systems that don’t break ⚙️
+# Mitul Gajjar
+### 🧙 Backend Engineer — Systems that don’t break ⚙️
 
 I build backend systems designed to handle real-world constraints — failures, retries, and long-running processes.
 
@@ -52,7 +52,7 @@ Rule-based chess engine built without AI to model complex logic and constraint-d
 
 ---
 
-## 🔐 Freelance Work
+## 🔐 Independent Software Consultant
 
 I collaborate on freelance systems under a shared account:
 
